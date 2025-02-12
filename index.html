@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Random Quote Generator</title>
+    <link href="styles.css" rel="stylesheet">
+    <script src="index.js"></script>
+    <link rel="icon" type="image/jpg" href="/images/icon-project.png">
+</head>
+
+<body>
+    <div class="content-container">
+        <h1>Random Quote Generator</h1>
+        <p>
+            Welcome to the Random Quote Generator!
+            This tool is here to give you a burst of inspiration whenever you need it.
+            Simply click the button, and a new quote will appear, offering you a refreshing dose of motivation, wisdom,
+            or positivity.
+            Whether you're looking for a quick pick-me-up or just want to explore new ideas,
+            this simple app is designed to provide you with thoughtful quotes at the click of a button.
+            Enjoy exploring and let the words inspire you!
+        </p>
+        <br>
+        <div class="quote-breaker">
+            <div class="line"></div>
+            <div class="circle">
+                <p>“</p>
+            </div>
+            <div class="line"></div>
+        </div>
+        <br>
+        <div class="quote-container">
+            <p class="initial-p"><span>"</span>click the button to generate a random quote!<span>"</span></p>
+            <button onclick="getRandomQuote()">Generate Quote</button>
+        </div>
+    </div>
+</body>
