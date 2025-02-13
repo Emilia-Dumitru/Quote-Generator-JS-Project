@@ -1,4 +1,4 @@
-# Quote Generator JS Project
+# Random Quote Generator
 A simple Quote Generator app built with HTML, CSS, and JavaScript. This project generates random quotes every time you click a button.
 ## Features
 - Displays a random quote from a predefined list
