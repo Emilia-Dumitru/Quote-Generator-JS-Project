@@ -39,4 +39,4 @@ This project is open-source and available under the MIT License.
 
 📌 Author: Emilia Dumitru
 
-📅 Last Updated: [Current Date]
+📅 Last Updated: [24/02/2025]
